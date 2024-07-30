@@ -6,4 +6,7 @@ var app = function(){
     function calculo2(){
         return true;
     };
+    function calculo3(){
+        return false;
+    };
 };
