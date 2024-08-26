@@ -5,6 +5,13 @@ body{
     margin: 0px;
     padding: 0px;
 }
+div#cabecera{
+    background: blue;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    font-weight: bold;
+}
 div#container{
     width: 70%;
     padding: 1em;    
