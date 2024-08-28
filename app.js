@@ -1,5 +1,8 @@
 var app = function(){
     var dato = "sdsd";
+	function init(){
+        return true;
+    };
     function calculo1(){
         return false;
     };
