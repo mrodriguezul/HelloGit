@@ -9,4 +9,7 @@ var app = function(){
     function calculo3(){
         return "ok";
     };
+	function init(){
+        return "ok";
+    };
 };
