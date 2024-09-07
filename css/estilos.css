@@ -12,6 +12,10 @@ div#cabecera{
     padding: 10px;
     font-weight: bold;
 }
+div#cabecera #logo{
+    width: 22px;
+    vertical-align: middle;
+}
 div#container{
     width: 70%;
     padding: 1em;
