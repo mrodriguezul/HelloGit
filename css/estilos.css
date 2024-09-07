@@ -26,3 +26,8 @@ div#container{
 div#container h1{
     font-size: 25px;
 }
+div#footer{
+	padding: 10px;
+	background-color: green;
+	text-align: center;
+}
