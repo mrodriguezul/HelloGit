@@ -26,6 +26,16 @@ div#container{
 div#container h1{
     font-size: 25px;
 }
+div#banner p{
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    background-color: gray;
+    margin: 0px;
+    padding: 20px;
+    font-style: italic;
+}
 div#footer{
 	padding: 10px;
 	background-color: green;
