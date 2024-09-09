@@ -1,4 +1,6 @@
 ### GIT de práctica
+Usando esta herramienta:
+    - https://pandao.github.io/editor.md/en.html
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 
