@@ -16,3 +16,6 @@ var app = function(){
         return "ok";
     };
 };
+
+var flagInicializacion = false;
+
