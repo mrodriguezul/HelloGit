@@ -18,4 +18,4 @@ var app = function(){
 };
 
 var flagInicializacion = false;
-
+var flagProcesamiento = false;
