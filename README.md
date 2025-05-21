@@ -6,8 +6,13 @@ Usando esta herramienta:
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 
+[Este es enlace de prueba](https://mrodriguezul.github.io/repogit/)
 
-**Table of Contents**
+[Aquí se encuentran estos badget](https://shields.io/)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/mrodriguezul/HelloGit)
+
+**ATable of Contents**
 
 ####Javascript　
 
